@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/USHER/Desktop/stickman/media/videos/spacetime_animation/480p15/partial_movie_files/SpaceTimeGrid/1185818338_1771530928_223132457.mp4'
+file 'file:C:/Users/USHER/Desktop/stickman/media/videos/spacetime_animation/480p15/partial_movie_files/SpaceTimeGrid/624642324_2493666814_969641881.mp4'
+file 'file:C:/Users/USHER/Desktop/stickman/media/videos/spacetime_animation/480p15/partial_movie_files/SpaceTimeGrid/624642324_2834709167_271110362.mp4'
+file 'file:C:/Users/USHER/Desktop/stickman/media/videos/spacetime_animation/480p15/partial_movie_files/SpaceTimeGrid/624642324_762618974_380520544.mp4'
+file 'file:C:/Users/USHER/Desktop/stickman/media/videos/spacetime_animation/480p15/partial_movie_files/SpaceTimeGrid/624642324_304390720_1323984825.mp4'
+file 'file:C:/Users/USHER/Desktop/stickman/media/videos/spacetime_animation/480p15/partial_movie_files/SpaceTimeGrid/624642324_2844360058_1146684915.mp4'
+file 'file:C:/Users/USHER/Desktop/stickman/media/videos/spacetime_animation/480p15/partial_movie_files/SpaceTimeGrid/624642324_2011394308_554207670.mp4'

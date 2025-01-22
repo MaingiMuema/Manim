@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/USHER/Desktop/stickman/media/videos/velocity_tutorial/480p15/partial_movie_files/StickmanVelocityScene/1185818338_1105109728_3847099953.mp4'
+file 'file:C:/Users/USHER/Desktop/stickman/media/videos/velocity_tutorial/480p15/partial_movie_files/StickmanVelocityScene/624642324_750856048_3010368033.mp4'
+file 'file:C:/Users/USHER/Desktop/stickman/media/videos/velocity_tutorial/480p15/partial_movie_files/StickmanVelocityScene/624642324_3070534614_1009894706.mp4'
+file 'file:C:/Users/USHER/Desktop/stickman/media/videos/velocity_tutorial/480p15/partial_movie_files/StickmanVelocityScene/624642324_1177527027_2140429391.mp4'
+file 'file:C:/Users/USHER/Desktop/stickman/media/videos/velocity_tutorial/480p15/partial_movie_files/StickmanVelocityScene/624642324_2844360058_144893086.mp4'
